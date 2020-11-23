@@ -8,6 +8,10 @@ p {
 	background-color: #ccc;
 	margin: 20px;
 	padding: 40px;
+	color: #cc9966;
+}
+h1 {
+	color: rgb(255,0,0);
 }
 img {
 	width: 100%;
