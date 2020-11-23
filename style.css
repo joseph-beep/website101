@@ -16,6 +16,8 @@ p {
 }
 h1 {
 	color: rgb(255,0,0);
+	margin: 20px;
+    padding: 40px;
 }
 img {
 	width: 100%;
