@@ -4,3 +4,8 @@ body {
 	color: white;
 	text-align: center;
 }
+p {
+	background-color: #ccc;
+	margin: 20px;
+	padding: 40px;
+}
