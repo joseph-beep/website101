@@ -9,6 +9,10 @@ p {
 	margin: 20px;
 	padding: 40px;
 	color: #cc9966;
+	letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
 }
 h1 {
 	color: rgb(255,0,0);
